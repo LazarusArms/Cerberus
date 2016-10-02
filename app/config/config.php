@@ -10,9 +10,9 @@ return new \Phalcon\Config([
     'database' => [
         'adapter'     => 'Mysql',
         'host'        => 'localhost',
-        'username'    => 'Erhan',
-        'password'    => 'test123@007',
-        'dbname'      => 'System32',
+        'username'    => 'root',
+        'password'    => '',
+        'dbname'      => 'test',
         'charset'     => 'utf8',
     ],
     'application' => [
