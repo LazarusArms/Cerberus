@@ -1,6 +1,6 @@
 <?php
 
-class Groenten extends \Phalcon\Mvc\Model
+class Groenten extends \Phalcon\Mvc \Model
 {
 
     /**

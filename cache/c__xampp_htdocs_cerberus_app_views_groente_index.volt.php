@@ -1,1 +1,1 @@
-<h1> Groenten, ik kom klaar want dit werkt nu eindelijk en nu weet ik een beetje hoe PHALCON WERKT NIGGA </h1>
+<h1> Testpagina groente voor een database connectie enz. </h1>
