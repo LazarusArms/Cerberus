@@ -111,6 +111,7 @@ class UsersController extends ControllerBase
         $user->email = $this->request->getPost("email", "email");
         $user->username = $this->request->getPost("username");
         $user->password = $this->request->getPost("password");
+        $user->password = $this->security->hash("password");
         
 
         if (!$user->save()) {

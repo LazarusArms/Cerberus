@@ -1,7 +1,9 @@
 <div class="page-header">
-    <h1>Cnngratulations</h1>
+    <h1>Congratulations</h1>
 </div>
 
 <p>You're now flying with Phalcon. Great things are about to happen!</p>
 
 <p>This page is located at <code>views/index/index.volt</code></p>
+
+<p> Wollah we gaan nu gekke shit bouwen neef </p>
